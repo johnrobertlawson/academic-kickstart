@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Work+Sans:wght@200;400;700"
+
+# Font families
+heading_font = "Work Sans"
+body_font = "Work Sans"
+nav_font = "Work Sans"
+mono_font = "Work Sans"
