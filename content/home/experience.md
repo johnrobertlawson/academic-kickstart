@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Post-doctoral researcher assistant"
   company = """Cooperative Insititute for Mesoscale Meteorological Studies and
-  """National Severe Storms Laboratory; Norman, Oklahoma, USA."""
+  National Severe Storms Laboratory; Norman, Oklahoma, USA."""
   company_url = "www.cimms.edu"
   location = "Oklahoma"
   date_start = "2017-01-01"
