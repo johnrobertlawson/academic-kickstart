@@ -58,11 +58,11 @@ social:
   icon_pack: fab
   link: https://github.com/johnrobertlawson
   
-Link to a PDF of your resume/CV from the About widget.
-To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# Link to a PDF of your resume/CV from the About widget.
+#To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#- icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,9 +72,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 I'm John. I'm a scientific researcher with a doctorate in Meteorology from Iowa State University, Iowa, and 42 months' experience as a postdoctoral research position at CIMMS/NSSL in Oklahoma, USA.
