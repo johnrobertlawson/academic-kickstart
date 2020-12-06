@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Director and Founder of Bolt Forecast"
   #url = ""
   #certificate_url = "https://www.coursera.org"
-  date_start = "2015"
-  date_end = "2018"
+  date_start = "2015-01-01"
+  date_end = "2018-01-01"
   # description = ""
 
 +++
