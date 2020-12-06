@@ -1,37 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: John R. Lawson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Scientific researchers and computer programmer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include meteorology, predictability, information, complexity, and chaos.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Meteorology
+  - Mesoscale systems
+  - Synoptic-scale systems
+  - Modelling verification
+- Predictability and Chaos
+  - Limits of predictability
+- Information Theory
+  - Optimising communication of risk
+- Complexity Science
+  - Emergence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Meteorology
+    institution: Iowa State University
+    year: 2016
+  - course: M.S. in Meteorology
+    institution: University of Utah
+    year: 2013
+  - course: MMet in Meteorology (+1 year in Oklahoma, USA)
+    institution: University of Reading; University of Oklahoma
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,24 +50,25 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/johnroblawson
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=hDAU8eQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/johnrobertlawson
+  
+Link to a PDF of your resume/CV from the About widget.
+To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +77,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm John. I'm a scientific researcher with a doctorate in Meteorology from Iowa State University, Iowa, and 42 months' experience as a postdoctoral research position at CIMMS/NSSL in Oklahoma, USA.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I grew up in Stockton-on-Tees, northeastern England, and lived in Reading (England), Salt Lake City (Utah, USA), Ames (Iowa, USA), and Norman (Oklahoma, USA). 
+
+Ask me about the following and I'll talk your ears off: politics and ethics, cricket, association football, philosophy, languages and accents, music (rock, metal, EDM, trippy), spiders, gambling statistics...
+
+
+(call me "he")

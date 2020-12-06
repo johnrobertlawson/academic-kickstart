@@ -13,8 +13,9 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
-#theme = "lawson"
+
+#theme = "minimal"
+theme = "lawson"
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -23,10 +24,10 @@ day_night = false
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
 # font = "family=Work+Sans:wght@300"
-font  = "Work Sans"
+# font  = "Work Sans"
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+# font_size = "M"
 
 ############################
 ## Basic Info

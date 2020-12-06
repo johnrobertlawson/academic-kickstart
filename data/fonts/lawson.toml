@@ -1,11 +1,11 @@
 # Font style metadata
-name = "lawson"
+name = "Lawson"
 
 # Optional Google font URL
-google_fonts = "family=Work+Sans:wght@200;400;700"
+google_fonts = "Alegreya+Sans:200,400,700|Work+Sans:200,400,700|JetBrains+Mono:400,700"
 
 # Font families
 heading_font = "Work Sans"
-body_font = "Work Sans"
-nav_font = "Work Sans"
-mono_font = "Work Sans"
+body_font = "Alegreya Sans"
+nav_font = "JetBrains Mono"
+mono_font = "JetBrains Mono"
