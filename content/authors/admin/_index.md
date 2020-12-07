@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:john@jrl.ac'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnroblawson
@@ -60,9 +60,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+icon: cv
+icon_pack: ai
+link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -79,7 +79,4 @@ I'm John. I'm a scientific researcher with a doctorate in Meteorology from Iowa 
 
 I grew up in Stockton-on-Tees, northeastern England, and lived in Reading (England), Salt Lake City (Utah, USA), Ames (Iowa, USA), and Norman (Oklahoma, USA). 
 
-Ask me about the following and I'll talk your ears off: politics and ethics, cricket, association football, philosophy, languages and accents, music (rock, metal, EDM, trippy), spiders, gambling statistics...
-
-
-(call me "he")
+Ask me about the following: politics and ethics, cricket, association football, philosophy, languages and accents, music (rock, metal, EDM, trippy), spiders, gambling statistics...
