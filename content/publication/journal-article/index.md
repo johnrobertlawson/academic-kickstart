@@ -2,9 +2,8 @@
 title: "An example journal article"
 authors:
 - admin
-admin
-# author_notes:
-# - "Equal contribution"
+author_notes:
+- "Me!"
 # - "Equal contribution"
 date: "2020-09-01T00:00:00Z"
 doi: ""
