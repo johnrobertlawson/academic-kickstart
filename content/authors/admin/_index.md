@@ -6,7 +6,7 @@ title: John R. Lawson
 superuser: true
 
 # Role/position
-role: Scientific researcher and computer programmer
+role: Scientific researcher & computer programmer
 
 # Organizations/Affiliations
 organizations:
