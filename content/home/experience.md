@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "www.cimms.edu"
   location = "Oklahoma"
   date_start = "2017-01-01"
-  date_end = "2020-08-01"
+  date_end = "2020-11-01"
   description = """
   Key points include:
   
