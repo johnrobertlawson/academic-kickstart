@@ -6,7 +6,7 @@ title: John R. Lawson
 superuser: true
 
 # Role/position
-role: Scientific researchers and computer programmer
+role: Scientific researcher and computer programmer
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,9 @@ bio: My research interests include meteorology, predictability, information, com
 
 interests:
 - Meteorology
-  - Mesoscale systems
-  - Synoptic-scale systems
-  - Modelling verification
 - Predictability and Chaos
-  - Limits of predictability
 - Information Theory
-  - Optimising communication of risk
 - Complexity Science
-  - Emergence
 
 education:
   courses:
