@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = ":snake:"
+  icon_pack = "emoji"
   name = "Python"
   description = "Data analysis and visualisation"
   
@@ -27,7 +27,7 @@ subtitle = ""
   description = "Proficient with command line Linux"  
   
 [[feature]]
-  icon = ":paper:"
+  icon = ":owl:"
   icon_pack = "emoji"
   name = "Scientific writing"
   description = "Published scientific writer"
