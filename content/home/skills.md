@@ -21,14 +21,14 @@ subtitle = ""
   description = "Data analysis and visualisation"
   
 [[feature]]
-  icon = "linux"
-  icon_pack = "fas"
+  icon = ":penguin:"
+  icon_pack = "emoji"
   name = "Linux"
   description = "Proficient with command line Linux"  
   
 [[feature]]
-  icon = "Writing and Publishing"
-  icon_pack = "fas"
+  icon = ":paper:"
+  icon_pack = "emoji"
   name = "Scientific writing"
   description = "Published scientific writer"
 
