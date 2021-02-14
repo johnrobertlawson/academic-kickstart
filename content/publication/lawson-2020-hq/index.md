@@ -5,7 +5,7 @@ publishDate: 2021-02-14T15:08:25.508451Z
 authors: ["J R Lawson", "C K Potvin", "P S Skinner", "A E Reinhart"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Mon. Weather Rev.*"
 ---
 

@@ -5,7 +5,7 @@ publishDate: 2021-02-14T15:08:25.508655Z
 authors: ["John R Lawson"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*J. Atmos. Sci.*"
 ---
 

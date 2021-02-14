@@ -12,7 +12,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

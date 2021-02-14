@@ -5,7 +5,7 @@ publishDate: 2021-02-14T15:08:25.508878Z
 authors: ["John R Lawson", "John S Kain", "Nusrat Yussouf", "David C Dowell", "Dustan M Wheatley", "Kent H Knopfmeier", "Thomas A Jones"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Weather Forecast.*"
 ---
 
