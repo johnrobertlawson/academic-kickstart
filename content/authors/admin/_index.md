@@ -44,7 +44,7 @@ social:
   link: 'mailto:john@jrl.ac'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/johnroblawson
+  link: https://twitter.com/DrJohnRLawson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=hDAU8eQAAAAJ&hl=en
